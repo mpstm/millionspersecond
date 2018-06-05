@@ -3,4 +3,4 @@
 - pick one developer tools 
   simple : Notepad++, sublime 
   complex: eclipse, Intellj
-- download the software
+-
