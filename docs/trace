@@ -6,10 +6,16 @@
            trace -d
            trace -l tracefile
            trace -R tracefile
-           
+https://opensource.apple.com/source/system_cmds/system_cmds-433/fs_usage.tproj/fs_usage.c
            
 DTrace
 dtruss -t open_nocancel -p <pid>
 dtrace -ln 'syscall:::entry'
 dtrace -ln 'syscall:::entry'
+
+ls /usr/bin/*.d
+http://dtrace.org/guide/preface.html
+
+
+
 
