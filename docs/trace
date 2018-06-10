@@ -1,4 +1,7 @@
-         trace -i
+        trace is for Mac
+        ==================
+        
+           trace -i
            trace -E -c 0x4 ./my_prog
            trace -d
            trace -l tracefile
