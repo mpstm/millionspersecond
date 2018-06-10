@@ -1,0 +1,32 @@
+by Kernighan and Ritchie
+variables, assignment, loops, functions
+
+BCPL by Martin Richards 
+C proceed indirectly through B written by Ken Thompson 1970 
+BCPL and C are typeless
+int and floating are several sizes
+derived types, pointers,arrays, structures and unions
+expressions by operands, any expressions
+assignment, function call
+control flow - 
+     decision making ( if - else )
+     selecting ( switch )
+     loop/termination ( while , for , bottom(do) , break
+     
+function return 
+    basic types, structures, unions, pointers, 
+     
+calling function recursively
+local variables, automatics 
+variables declared in block-structed
+C is relatively low - level language
+------------------
+Baisc language
+- standard collection of functions
+- straing forward, single threaded
+- ANSI C
+- programmers know what they are doing
+Chapter - 1
+ - variable, constants, arithmetic, control flow and funtions
+ 
+
