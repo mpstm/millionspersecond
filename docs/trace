@@ -6,3 +6,10 @@
            trace -d
            trace -l tracefile
            trace -R tracefile
+           
+           
+DTrace
+dtruss -t open_nocancel -p <pid>
+dtrace -ln 'syscall:::entry'
+dtrace -ln 'syscall:::entry'
+
