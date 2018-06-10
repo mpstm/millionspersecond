@@ -1,0 +1,5 @@
+         trace -i
+           trace -E -c 0x4 ./my_prog
+           trace -d
+           trace -l tracefile
+           trace -R tracefile
