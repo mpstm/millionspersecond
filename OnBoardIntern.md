@@ -22,20 +22,22 @@ fork this repo and create text file about your information and send the pull req
        How C was created .. etc anything one technical papers
        
    2. 3HR read about Programming C Language 
-        try simple code using 
-        basic language
-        library provided by C Langage
-        download source of git or strace
-        see how its been strcture
+       write a program to hide
+       write/collect the program to find 
+       
         
    3.  break an hour 
-   4  3 Hr Write small programe using C upload git hub.
+   4  3 Hr Play hide and seek
+      run the program that has hidden something
+      run the tracer program to find what is hidden
+      
    5. ( 5 to 6 or 6 to 7 ) web session.
    5. ( 6 PM yo 7 ) 1 Hrs each one share web session of 
       your topic 15-20 minutes
       10 minutes each sessions.
    6. End of the day ( Good night )
-   ----------------- Go and enjoy the life with friends and family ----------
+
+Go and enjoy the life with friends and family 
    
    
       
