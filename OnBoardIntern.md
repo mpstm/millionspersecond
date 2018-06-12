@@ -12,8 +12,7 @@ fork this repo and create text file about your information and send the pull req
   
   
   How does day look: 8 Hrs 
-  (unplug everthing 
-   small talk. talking messaging. talk around browser around etc )
+  (unplug everthing be professional )
    
   1. sharpen the knife - 
    1. 1Hr pick one : read a technical paper
