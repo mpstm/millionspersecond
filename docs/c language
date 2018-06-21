@@ -28,5 +28,21 @@ Baisc language
 - programmers know what they are doing
 Chapter - 1
  - variable, constants, arithmetic, control flow and funtions
+ - helloworld.c
+ - 
+}
+}
+'define LOWER 0 1* lower limit of table *1
+'define UPPER 300 1* upper limit *1
+'define STEP 20 1* step size *1
+
+for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)
+     printf(""3d "6. 1f\n", fahr, (S.0/9.0)*(fahr-32»;
+
+- call by value
+- variable scope
+- type, operator and expressin
+- 
+
  
 
