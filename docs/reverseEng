@@ -29,3 +29,39 @@ If you are unsure if you meet the required prerequisites, contact us for a quick
 Reverse Engineering Boot Camp
 
 Rated 4.9/5 based on 9 customer reviews
+
+Many incident response situations and computer forensics investigations cannot be completed accurately or thoroughly without understanding the runtime nature of a binary. Hackers increasingly use customized trojans that are not detected by antivirus which can only be analyzed and traced back to the original attacker via reverse engineering. Additionally, many binary programs contain vulnerabilities, such as buffer overflows and the use of very weak cryptographic algorithms. The only way to discover these critical vulnerabilities for closed-source programs is to reverse engineer them. Reverse engineering is also required in order to understand complex binary obfuscation schemes used by copy protection vendors, as well as obfuscation put in place by commercial software vendors.
+
+Understanding hashing functions
+Working with encrypted binaries
+Reversing UPX and other compression types
+Discovering stack overflows
+Discovering heap overflows
+Creating a sandbox to isolate malware
+Unpacking malware
+Monitoring registry changes
+Identifying malware communication channels
+Understanding Digital Rights Management (DRM) implementations
+
+Thwart anti-debugger code
+Learn about memory management
+Debug multi-threaded programs
+Work with recursive traversal dissasemblers
+Reverse .NET bytecode
+CREA review
+Learn about legal issues and the DMCA
+Understand conditional branching statements
+Learn about Win32 executable formats and image sections
+Use virtual machines and bytecode
+Learn the fundamentals of IDA Pro
+Learn system vs. code Level reversing
+Identify variables
+Learn advanced uses of IDA Pro with hostile code
+Use Ollydbg for runtime analysis of malware
+Use Kernel mode debugging with SoftICE
+Dump executables from memory with Dumpbin
+Learn about compilers and branch prediction
+Locate undocumented APIs
+Reverse ntdll.dll
+Lear obfuscation of file formats
+
