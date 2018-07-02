@@ -1,0 +1,31 @@
+Reverse Engineering Course Overview
+
+Reverse engineering is a vitally important skill for today’s expert security professional. 
+Everything from reverse engineering malware to discovering vulnerabilities 
+in binaries is required in order to properly secure an organization from today’s ever evolving threats.
+In this five day hands-on course, you will gain the necessary binary analysis skills to discover
+ the true nature of any Windows binary. You will learn how to recognize the high level language constructs (such as branching statements, looping functions and network socket code) critical to performing a thorough and professional reverse engineering analysis of a binary. After learning these important introductory skills, you will advance to the analysis of:
+
+Hostile Code & Malware, including: Worms, viruses, trojans, rootkits and bots .
+Vulnerabilities in Binaries, including: Format string vulnerabilities, buffer overflow conditions, and the identification of flawed cryptographic schemes
+Business Intelligence, used by: Hackers, trojan writers and copy protection algorithms
+Additionally you will learn how to recognize the features modern optimizing compilers, including the gcc 4.x family of compilers and the ubiquitous Visual Studio .NET. InfoSec Institute will train you on the standard reverse engineering programs IDA Pro,Ollydbg, and Softice. You will also learn how to use various hex editors, binary analysis programs, and code coverage analyzers.
+
+HOW YOU’LL BENEFIT:
+
+Gain the in-demand career skills of a reverse engineer.
+Learn the methodologies, tools, and manual reversing techniques used real world situations in our reversing lab.
+Move beyond automated “input and output” testing of binaries, commonly used by fuzzers and other analysis tools.
+More than interesting theories and lecture, get your hands dirty in our dedicated reversing lab in this security training course.
+Learn from Advanced Reversing Experts: All of the instructors for InfoSec Institute’s Reverse Engineering course actively work in the field of incident response or security research. Our instructors have spoken at high-profile conferences (such as the Black Hat Briefings, the RSA Security Conference, and the Pentagon Security Forum) and industry events.
+
+Prerequisites:
+
+Firm understanding of the Windows Operating System
+Firm understanding of computer architecture concepts
+Grasp of the TCP/IP protocols
+If you are unsure if you meet the required prerequisites, contact us for a quick network security training skill check.
+
+Reverse Engineering Boot Camp
+
+Rated 4.9/5 based on 9 customer reviews
